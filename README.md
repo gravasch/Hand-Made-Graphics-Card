@@ -3,7 +3,8 @@
 
 Κόστος κατασκευής :76,73€
 
-<img width="417" alt="image" src="https://user-images.githubusercontent.com/33194583/109468290-0cd54d80-7a75-11eb-9d30-7554c37550df.png">
+<img width="788" alt="image" src="https://user-images.githubusercontent.com/33194583/109468471-48701780-7a75-11eb-8e3e-a3d71960796a.png">
+
 
 
 Graphics card is one of the most important subsystems of a computer.
